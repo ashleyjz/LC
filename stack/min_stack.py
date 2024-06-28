@@ -1,4 +1,4 @@
-#  155 medium
+# 155 medium
 
 class MinStack:
 
